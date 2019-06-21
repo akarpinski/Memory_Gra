@@ -1,0 +1,10 @@
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\bin\Debug\Memory.exe
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\bin\Debug\Memory.pdb
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.Form1.resources
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.exe
+F:\ Programy_kurs C#_Komputer Świat\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.pdb
