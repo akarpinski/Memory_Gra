@@ -2,7 +2,7 @@
 Gra komputerowa w języku C#
 
 ### Zasady gry
-1.https://github.com/akarpinski/Komputery_historia/branches Dobieramy parami po dwa kolorowe, ukryte pola.
+1. Dobieramy parami po dwa kolorowe, ukryte pola.
 2. Gdy kolory takie same - OK :thumbsup:!
 3. Gdy różne, to pola nadal puste :-1:.
 4. Gdy wszystkie pola odkryte, to koniec gry, ZWYCIĘSTWO!
